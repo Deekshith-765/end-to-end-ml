@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+mlflow
+dvc
+evidently
+fastapi
+uvicorn
+pydantic
+python-jose
+passlib
+python-multipart
+scipy
+pytest
